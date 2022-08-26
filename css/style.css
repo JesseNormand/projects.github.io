@@ -48,7 +48,7 @@ img {
 #header {
 	background-color: #eee;
 	border-bottom: 1px solid #e6e6e6;
-	padding: 5px 0;
+	padding: 20px 0;
 }
 #header > div, #footer > div {
 	width: 920px;
@@ -58,7 +58,7 @@ img {
 /** Logo **/
 #header .logo {
 	float: left;
-	margin-right: 20px;
+	margin-right: 50px;
 }
 #header .logo a {
 	background: url(../images/) no-repeat center top;
@@ -75,7 +75,7 @@ img {
 #navigation {
 	display: inline-block;
 	list-style: none;
-	line-height: 100px;
+	line-height: 10px;
 	margin: 0;
 	padding: 0;
 }
@@ -92,7 +92,7 @@ img {
 }
 #navigation li a {
 	color: #818181;
-	font-size: 15px;
+	font-size: 30px;
 	line-height: 30px;
 	text-decoration: none;
 }
@@ -168,7 +168,7 @@ h2 {
 }
 p {
 	color: #585858;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 24px;
 	margin: 0 0 30px;
 }
@@ -361,7 +361,7 @@ p a {
 #footer {
 	background-color: #eee;
 	border-top: 1px solid #d8d8d8;
-	padding: 30px 0;
+	padding: 15px 0;
 }
 #footer p {
 	font-size: 12px;
